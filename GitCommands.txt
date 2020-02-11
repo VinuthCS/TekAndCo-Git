@@ -1,0 +1,29 @@
+Create File with text
+	echo "text" >> FileName
+
+Initialise Git Repository
+	git init
+
+Adding a file to Repository
+	git add
+
+Checking Status
+	git status
+
+Committing file with comment
+	git commit -m "comment"
+
+Adding Local Repository to Git URL
+	git remote add origin url
+
+Pushing Local Repository to Git URL
+	git push -u origin master
+
+Pushing commits to Git URL
+	git push
+
+Checking difference
+	git diff FileName
+
+To update local Repository
+	git pull

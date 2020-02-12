@@ -8,10 +8,10 @@ public class ProtectedClassExample {
 	***/
 	
 	//Creating a protected data member of type String
-	protected String protectedString = "Protected Member of ProtectedClassExample";
+	protected static String protectedString = "Protected Member of ProtectedClassExample";
 	
 	//Creating a protected method to access the data member
-	protected void protectedMethod() {
+	protected static void protectedMethod() {
 		
 		System.out.println("This is a protected method in ProtectedClassExample "
 				+ "trying to access the protected data member");

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/mysql-connector-java-8.0.19 2/mysql-connector-java-8.0.19.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-5.2.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-5.2.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-indexer-5.2.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-indexer-5.2.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-indexer-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-support-5.2.3.RELEASE-javadoc.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-support-5.2.3.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="/Users/vinuth/Desktop/Ecplise/spring-framework-5.2.3.RELEASE/libs/spring-context-support-5.2.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
